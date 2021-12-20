@@ -1,0 +1,133 @@
+.bc-primary {
+    background-color: #ff7900 !important;
+}
+
+.bc-secondary {
+    background-color: #000 !important;
+}
+
+.bc-success {
+    background-color: #32c832 !important;
+}
+
+.bc-danger {
+    background-color: #ffb4e6 !important;
+}
+
+.bc-warning {
+    background-color: #fc0 !important;
+}
+
+.bc-info {
+    background-color: #527edb !important;
+}
+
+.bc-purple {
+    background-color: #a885d8 !important;
+}
+
+.bc-light {
+    background-color: #afaeae !important;
+}
+
+.bc-white {
+    background-color: #fff !important;
+}
+
+.c-primary {
+    color: #ff7900 !important;
+}
+
+.c-secondary {
+    color: #000 !important;
+}
+
+.c-success {
+    color: #32c832 !important;
+}
+
+.c-danger {
+    color: #ffb4e6 !important;
+}
+
+.c-warning {
+    color: #fc0 !important;
+}
+
+.c-info {
+    color: #527edb !important;
+}
+
+.c-purple {
+    color: #a885d8 !important;
+}
+
+.c-light {
+    color: #ddd !important;
+}
+
+.c-white {
+    color: #fff !important;
+}
+
+.c-red {
+    color: red !important;
+}
+
+.bt-primary {
+    background-color: #ff7900 !important;
+    color: #fff !important;
+}
+
+.bt-secondary {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.bt-success {
+    background-color: #32c832 !important;
+    color: #fff !important;
+}
+
+.bt-danger {
+    background-color: #ffb4e6 !important;
+    color: #fff !important;
+}
+
+.bt-warning {
+    background-color: #fc0 !important;
+    color: #fff !important;
+}
+
+.bt-info {
+    background-color: #527edb !important;
+    color: #fff !important;
+}
+
+.bt-purple {
+    background-color: #a885d8 !important;
+    color: #fff !important;
+}
+
+.bt-light {
+    background-color: #ddd !important;
+    color: #000 !important;
+}
+
+.bt-light-hover:hover {
+    background-color: #ff7900 !important;
+    color: #fff !important;
+}
+
+.bt-white {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+li.header {
+    background-color: #ff7900 !important;
+}
+
+li.a:hover {
+    background-color: #ff7900 !important;
+}
